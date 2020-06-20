@@ -2,7 +2,7 @@
 layout: home
 title: Learning Structure of Graphical Models
 # description: Towards developing a theme for research project websites
-background: /img/0.png
+background: assets/img/0.png
 permalink: /
 ---
 
