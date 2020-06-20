@@ -1,13 +1,14 @@
 ---
 layout: home
-title: Structure Learning of Graphical Models
+title: Learning Structure of Graphical Models
 # description: Towards developing a theme for research project websites
 background: /img/0.png
 permalink: /
 ---
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+Graphical models provide a strong and clear formalism for studying conditional independence relations, probabilistic reasoning, and decision making that arise in different research areas. Originally, graphs with a single type of edge were used i.e., undirected graphs and directed acyclic graphs (DAGs). However, in the case of undirected graphs only symmetric relations i.e., correlation between variables can be represented and  in the case of DAGs only asymmetric relations i.e., cause and effect relation between variables can be represented.
+Chain graphs were introduced as a unification of directed and undirected graphs to model  systems containing both symmetric and asymmetric relations.
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+Graphical models are the backbone of structural causal models and at the center of robust artificial intelligence. The construction of these models is a challenging task that would be greatly facilitated by automation. In this webpage, I present some of works regarding learning the structure of graphical models from data.
 
 
