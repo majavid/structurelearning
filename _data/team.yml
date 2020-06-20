@@ -1,6 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: Dr. Mohammad Ali Javidian
+- name: Mohammad Ali Javidian
   #role: Delivery boy # Will appear next to name
   image: assets/img/majavid.jpg # Can be external link
   description: > # Can be Markdown
@@ -13,7 +13,7 @@
   github: majavid
   twitter: ali_javidian
 
-- name: Dr. Pooyan Jamshidi
+- name: Pooyan Jamshidi
   #role: Captain
   image: assets/img/pj.jpg
   description: >
@@ -22,7 +22,7 @@
   github: pooyanjamshidi
   twitter: pooyanjamshidi
 
-- name: Professor Marco Valtorta
+- name: Marco Valtorta
   #role: CEO & Owner
   image: assets/img/mgv.jpg
   description: >
