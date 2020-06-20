@@ -2,7 +2,7 @@
 
 - name: Dr. Mohammad Ali Javidian
   #role: Delivery boy # Will appear next to name
-  image: img/majavid.jpg # Can be external link
+  image: assets/img/majavid.jpg # Can be external link
   description: > # Can be Markdown
     Research associate at the Department of Computer Science and Engineering of the University of South Carolina.
   #orcid: 0000-0000-0000-0000
@@ -12,7 +12,7 @@
 
 - name: Dr. Pooyan Jamshidi
   #role: Captain
-  image: img/pj.jpg
+  image: assets/img/pj.jpg
   description: >
     Assistant professor in the Computer Science and Engineering department at the University of South Carolina.
   email: pjamshid@cse.sc.edu
@@ -21,7 +21,7 @@
 
 - name: Professor Marco Valtorta
   #role: CEO & Owner
-  image: img/mgv.jpg
+  image: assets/img/mgv.jpg
   description: >
     Professor at the Department of Computer Science and Engineering of the University of South Carolina.
   email: mgv@cse.sc.edu
