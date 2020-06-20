@@ -1,5 +1,5 @@
 ---
-title: Uncertainty Artificial Intelligence
+title: Kickoff meeting
 description: Learning LWF Chain Graphs: A Markov Blanket Discovery Approach
 background: "https://images.unsplash.com/photo-1558441440-d4111d18d48f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80"
 author: [Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi]
