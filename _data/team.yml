@@ -6,18 +6,23 @@
   description: > # Can be Markdown
     Research associate at the Department of Computer Science and Engineering of the University of South Carolina.
   #orcid: 0000-0000-0000-0000
-  email: your.email@example.com
+  email: javidian@email.sc.edu
   github: majavid
   twitter: ali_javidian
+  rg: Mohammad_Javidian
 
 - name: Dr. Pooyan Jamshidi
   #role: Captain
   image: img/pj.jpg
   description: >
-    Assistant professor in the Computer Science and Engineering department at the University of South Carolina. 
+    Assistant professor in the Computer Science and Engineering department at the University of South Carolina.
+  email: pjamshid@cse.sc.edu
+  github: pooyanjamshidi
+  twitter: pooyanjamshidi
 
 - name: Professor Marco Valtorta
   #role: CEO & Owner
   image: img/mgv.jpg
   description: >
     Professor at the Department of Computer Science and Engineering of the University of South Carolina.
+    email: mgv@cse.sc.edu
