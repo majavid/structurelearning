@@ -10,6 +10,9 @@ baseurl: "/structurelearning"
 email: javidian@email.sc.edu           # Social icon in footer
 twitter_username: ali_javidian           # Social icon in footer
 github_username: majavid            # Social icon in footer
+authorurl: "https://cse.sc.edu/~javidian/"
+google-scholar: "https://scholar.google.com/citations?user=dtuQ0nQAAAAJ&hl=en/"
+research-gate: "https://www.researchgate.net/profile/Mohammad_Javidian"
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
