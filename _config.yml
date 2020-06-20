@@ -5,3 +5,8 @@ description: Jekyll theme for research project websites # Site description in <h
 author: Peter Desmet                    # Used for copyright statement in footer
 url: "https://majavid.github.io"  # No slash at the end
 baseurl: "/structurelearning"
+
+# SOCIAL PROFILES
+email: javidian@email.sc.edu           # Social icon in footer
+twitter_username: ali_javidian           # Social icon in footer
+github_username: majavid            # Social icon in footer
