@@ -36,3 +36,11 @@ exclude:
   - package-lock.json
   - package.json
   - petridish.gemspec
+  
+ defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:slug/"         # Use /blog/{filename}/ as permalink for all posts
