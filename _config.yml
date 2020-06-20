@@ -45,8 +45,3 @@ defaults:
       type: "posts"
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
