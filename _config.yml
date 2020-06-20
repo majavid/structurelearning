@@ -21,3 +21,12 @@ colors:
   banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
