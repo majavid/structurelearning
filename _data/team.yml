@@ -2,7 +2,7 @@
 
 - name: Dr. Mohammad Ali Javidian
   #role: Delivery boy # Will appear next to name
-  image: img/maj.jpg # Can be external link
+  image: img/majavid.jpg # Can be external link
   description: > # Can be Markdown
     Research associate at the Department of Computer Science and Engineering of the University of South Carolina.
   #orcid: 0000-0000-0000-0000
