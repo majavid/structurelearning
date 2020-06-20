@@ -1,8 +1,9 @@
 ---
 title: Kickoff meeting
-description: Learning LWF Chain Graphs: A Markov Blanket Discovery Approach
+description: 9-10 September 2019 in Ghent, Belgium
 background: "https://images.unsplash.com/photo-1558441440-d4111d18d48f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80"
-author: [Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi]
+author: [Philip J. Fry, Turanga Leela]
+categories: [Meetings, Shared category]
 ---
 
-This paper provides a graphical characterization of Markov blankets in chain graphs (CGs) under the Lauritzen-Wermuth-Frydenberg (LWF) interpretation. The characterization is different from the well-known one for Bayesian networks and generalizes it. We provide a novel scalable and sound algorithm for Markov blanket discovery in LWF CGs and prove that the Grow-Shrink algorithm, the IAMB algorithm, and its variants are still correct for Markov blanket discovery in LWF CGs under the same assumptions as for Bayesian networks. We provide a sound and scalable constraint-based framework for learning the structure of LWF CGs from faithful causally sufficient data and prove its correctness when the Markov blanket discovery algorithms in this paper are used. Our proposed algorithms compare positively/competitively against the state-of-the-art LCD (Learn Chain graphs via Decomposition) algorithm, depending on the algorithm that is used for Markov blanket discovery. Our proposed algorithms make a broad range of inference/learning problems computationally tractable and more reliable because they exploit locality.
+This post has a portrait background image to test if it still renders nicely.
