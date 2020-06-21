@@ -22,6 +22,9 @@ colors:
   banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+
+# Build settings
+markdown: kramdown
   
  # FRONTMATTER DEFAULTS
 defaults:
