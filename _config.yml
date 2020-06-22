@@ -1,8 +1,8 @@
 remote_theme: peterdesmet/petridish@1.1
 # SITE SETTINGS
-title: Mohammad Ali Javidian                        # Title in top navigation bar (navbar) and <head>
+title: Structure Learning of PGMs                        # Title in top navigation bar (navbar) and <head>
 description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
+author: Mohammad Ali Javidian. Layout is partially based on [petridish](https://github.com/peterdesmet/petridish).# in footer
 url: "https://majavid.github.io"  # No slash at the end
 baseurl: "/structurelearning"
 
