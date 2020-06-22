@@ -2,6 +2,7 @@
 title: 'Learning LWF Chain Graphs: A Markov Blanket Discovery Approach'
 description: Uncertainty in Artificial Intelligence \(UAI 2020\) 
 background: /assets/img/mb.png
+permalink: /blog/uai/
 author: [Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi]
 categories: [Structure learning, Chain graphs, Markov blanket]
 ---
