@@ -2,7 +2,7 @@
 layout: archive
 title: News
 description: News & blog posts
-background: assets/img/blogs.png
+background: assets/img/0.png
 permalink: /blog/
 ---
 
