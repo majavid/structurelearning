@@ -10,7 +10,10 @@ description: Template for team page
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
       <h5 id="{{ member.name | strip | url_encode }}">
-        {{ member.name }}
+        <a href="{{ member.url }}"> {{ member.name }} </a>
+        
+
+
         {% if member.role %}
         <small class="text-muted">| {{ member.role }}</small>
         {% endif %}
